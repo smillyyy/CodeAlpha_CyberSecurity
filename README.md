@@ -10,10 +10,10 @@ This repository contains all the practical tasks and projects completed during m
 
 | Task # | Task Name | Description | Status |
 | :--- | :--- | :--- | :--- |
-| **Task 1** | Network Scanner | Python script to scan active hosts and open ports on a network. | 🔄 In Progress |
-| **Task 2** | Packet Sniffer | Tool to capture and analyze network traffic packets in real-time. | ⏳ Pending |
-| **Task 3** | Vulnerability Assessment | Performing security scans and documenting vulnerabilities. | ⏳ Pending |
-
+| **Task 1** | Basic Network Sniffer | Python tool using `scapy`/`socket` to capture packets and display source/destination IPs, protocols, and payloads. | 🔄 In Progress |
+| **Task 2** | Phishing Awareness Training | Educational module/presentation on recognizing fake emails, social engineering, and best security practices. | ⏳ Pending |
+| **Task 3** | Secure Coding Review | Code audit of an application using static analysis or manual inspection to find and remediate vulnerabilities. | ⏳ Pending |
+| **Task 4** | Network Intrusion Detection System | NIDS set up using Snort/Suricata to monitor network traffic and trigger alerts for suspicious activity. | ⏳ Pending |
 ---
 
 ## 🛠️ Technologies & Tools Used
